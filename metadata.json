@@ -1,0 +1,5 @@
+{
+  "name": "ScaleGenAI - System Design Deck",
+  "description": "A high-performance, interactive presentation deck for System Design meetups focusing on GenAI proxy architecture and concurrency at scale.",
+  "requestFramePermissions": []
+}
